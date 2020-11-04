@@ -4,7 +4,7 @@
  *
  *	Library				: Linear Regression Library
  *	Code Developer		: Mehmet Gunce Akkoyun (akkoyun@me.com)
- *	Revision			: 01.00.00
+ *	Revision			: 01.00.01
  *
  *********************************************************************************/
 
