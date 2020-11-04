@@ -1,0 +1,33 @@
+{
+	"name": "LinearRegression",
+	"version": "1.0.2",
+	"keywords": "Linear, Regression, Machine, Learn, AI, Statistics, Stats, Math",
+	"description": "Function gives the formula of best fit line (regression) to given points. With this library you can filter your sensor datas or make decision on AI. Function also calculate correlation and slope of regression line.",
+	"authors":
+	{
+		"name": "Mehmet Gunce Akkoyun",
+		"email": "akkoyun@me.com",
+		"url": ""
+	},
+	"license": "MIT",
+	"frameworks": "arduino",
+	"platforms":
+	[
+		"atmelavr",
+		"atmelmegaavr"
+	],
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/akkoyun/LinearRegression.git"
+	},
+	"examples": [
+		{
+			"name": "Linear Regression",
+			"base": "examples/Linear",
+			"files": [
+				"Linear.ino"
+			]
+		}
+	]
+}
