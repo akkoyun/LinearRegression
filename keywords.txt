@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For LinearRegression
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LinearRegression				KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Data							KEYWORD2
+Calculate						KEYWORD2
+Correlation						KEYWORD2
+Parameters						KEYWORD2
+Reset							KEYWORD2
+Samples							KEYWORD2
+Error							KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+meanX							LITERAL1
+meanX2							LITERAL1
+varX							LITERAL1
+meanY							LITERAL1
+meanY2							LITERAL1
+varY							LITERAL1
+meanXY							LITERAL1
+covarXY							LITERAL1
